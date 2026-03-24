@@ -41,3 +41,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+    print("Нажмите enter чтобы завершить работу приложения...\n")
+    input()
